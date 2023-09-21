@@ -17,9 +17,23 @@ for ( i = 0; i < listaDeTeclas.length; i += 1) {
         tocaSom(idAudio);
     }
 
-    /*console.log(i);
-    console.log(tecla);
-    console.log(instrumento);*/
+    tecla.onkeydown = function (evento){
+        let key = evento.code;
+        if(key === 'Enter' || key === 'Space'){
+            tecla.classList.add('ativa');
+        }
+            
+    }
+
+    tecla.onkeyup = function (evento){
+        let key = evento.code;
+        if(key === 'Enter' || key === 'Space'){
+            tecla.classList.remove('ativa');
+        }
+    }
+
 }
 
+// Inserção de classes em JS
+// Eventos de teclado
 
