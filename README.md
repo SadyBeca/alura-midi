@@ -9,4 +9,5 @@
 | :rocket: URL         | [Aceese a página do GitHup Pages (Clique Aqui!)](https://sadybeca.github.io/alura-midi/)
 
 <!-- Inserir imagem com a #vitrinedev ao final do link -->
-![](https://via.placeholder.com/1200x500.png?text=imagem+lindona+do+meu+projeto#vitrinedev)
+![alura-midi](https://github.com/SadyBeca/alura-midi/assets/134239560/0d0ce2c4-2ea4-4fcc-829a-7a155784f0d5#vitrinedev)
+
